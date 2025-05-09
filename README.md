@@ -23,13 +23,12 @@ CCLE protein expression  (<ls28@sanger.ac.uk>)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SIN3B_CCLE_expression_analysis)
 
-Gene Set Enrichment Analysis, Survival analysis, and comparison to TCGA (<mv7@sanger.ac.uk>)
-
+Gene Set Enrichment Analysis, Survival analysis, and comparison to TCGA (<evazquez@liigh.unam.mx>)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SIN3B_downstream_analyses) 
 ## Contact 
 
 - Alistair Droop (<ad33@sanger.ac.uk>)
 - Victoria Offord (<vo1@sanger.ac.uk>)
-- Martha Estefania Vazquez Cruz (<mv7@sanger.ac.uk>)
+- Estefania Vázquez (<evazquez@liigh.unam.mx>)
 - Larissa Matsuyama (<ls28@sanger.ac.uk>)
 
