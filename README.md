@@ -11,11 +11,18 @@ The analyses were conducted by several authors. Each sub-analysis repository lin
 
 The sub-analyses of the project, authors who performed them, and repositories they correspond to are:  
 
-- Pathogen analysis [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_pathogen_identification)[![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426) (vo1@sanger.ac.uk)
+- Transcriptomics [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SIN3B_knockout_RNASeq) (<ad33@sanger.ac.uk>)
+
+- CRISPR [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SIN3B_CRISPR_screen) (<vo1@sanger.ac.uk>)
+
+- CCLE protein expression [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SIN3B_CCLE_expression_analysis) (<ls28@sanger.ac.uk>)
+
+- Gene Set Enrichment Analysis, Survival analysis, and comparison to TCGA [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/SIN3B_downstream_analyses) (<mv7@sanger.ac.uk>)
 
 ## Contact 
 
-- Alistair Droop (<vo1@sanger.ac.uk>)
+- Alistair Droop (<ad33@sanger.ac.uk>)
 - Victoria Offord (<vo1@sanger.ac.uk>)
+- Martha Estefania Vazquez Cruz (<mv7@sanger.ac.uk>)
 - Larissa Matsuyama (<ls28@sanger.ac.uk>)
 
