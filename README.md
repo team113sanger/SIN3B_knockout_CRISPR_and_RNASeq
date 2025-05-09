@@ -2,7 +2,7 @@
 
 This repository serves as the central landing page for multiple sub-analyses related to the manuscript:
 
-> **Knockout of SIN3B modulates transcriptional programs and cell survival in cutaneous melanoma**
+> **Matsuyama, L. S. A. S, et al. 2025 - Knockout of SIN3B modulates transcriptional programs and cell survival in cutaneous melanoma**
 
 The analyses were conducted by several authors. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. 
 
