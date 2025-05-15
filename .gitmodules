@@ -1,0 +1,15 @@
+[submodule "transcriptomics"]
+	path = transcriptomics
+	url = git@github.com:team113sanger/SIN3B_knockout_RNASeq.git
+[submodule "crispr"]
+	path = crispr
+	url = git@github.com:team113sanger/SIN3B_CRISPR_screen.git
+[submodule "ccle-protein-expression"]
+	path = ccle-protein-expression
+	url = git@github.com:team113sanger/SIN3B_CCLE_expression_analysis.git
+[submodule "tcga-geo-expression-analysis"]
+	path = tcga-geo-expression-analysis
+	url = git@github.com:team113sanger/SIN3B_TCGA_GEO_expression_analysis.git
+[submodule "gene-set-enrichment-analysis"]
+	path = gene-set-enrichment-analysis
+	url = git@github.com:team113sanger/SIN3B_downstream_analyses.git
